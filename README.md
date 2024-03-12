@@ -6,6 +6,7 @@
 [![Test Coverage](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/coverage.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/coverage)
 ![example event parameter](https://github.com/Kolalexx/hexlet-phpunit-/actions/workflows/workflow.yml/badge.svg?event=push)
 
+
 ## Addons
 
 Use <http://psysh.org/>
