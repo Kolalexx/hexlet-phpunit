@@ -2,6 +2,7 @@
 
 [![Github Actions Status](https://github.com/hexlet-boilerplates/php-package/workflows/PHP%20CI/badge.svg)](https://github.com/hexlet-boilerplates/php-package/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/758ee80ae547987f729e/maintainability)](https://codeclimate.com/github/Kolalexx/hexlet-phpunit-/maintainability)
+[![Issue Count](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/issue_count.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/issues)
 [![Test Coverage](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/coverage.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/coverage)
 ![example event parameter](https://github.com/Kolalexx/hexlet-phpunit-/actions/workflows/workflow.yml/badge.svg?event=push)
 
